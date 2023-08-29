@@ -103,3 +103,16 @@ li button:hover{
     padding-left: 15px; 
     margin-bottom: 20px;
 }
+
+
+@media(max-width: 281px){
+    .list{
+        width: 10rem;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .nav img{
+        width: 70px;
+    }
+}
