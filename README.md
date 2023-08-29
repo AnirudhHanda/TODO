@@ -25,6 +25,6 @@ Welcome to the Awesome TODO Web App! This web application allows you to manage y
 
  ## Check it out
 
-[![Logo](https://user-images.githubusercontent.com/113718835/193540808-2770ee2d-77b6-4741-a7ed-e62632295bc1.png) Lighthouse](https://anirudhhanda.github.io/TODO/)
+[![Logo](https://user-images.githubusercontent.com/113718835/193540808-2770ee2d-77b6-4741-a7ed-e62632295bc1.png) TODO App](https://anirudhhanda.github.io/TODO/)
 
 
